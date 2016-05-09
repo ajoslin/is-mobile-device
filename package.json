@@ -1,7 +1,7 @@
 {
   "name": "is-mobile-device",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns whether the device is mobile (is-android or is-ios)",
   "license": "MIT",
   "repository": "ajoslin/is-mobile-device",
