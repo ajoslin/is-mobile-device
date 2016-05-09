@@ -1,0 +1,33 @@
+{
+  "name": "is-mobile-device",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Returns whether the device is mobile (is-android or is-ios)",
+  "license": "MIT",
+  "repository": "ajoslin/is-mobile-device",
+  "author": {
+    "name": "Andrew Joslin",
+    "email": "andrewtjoslin@gmail.com",
+    "url": "ajoslin.com"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "is mobile",
+    "device",
+    "android",
+    "ios"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "is-android": "^1.0.1",
+    "is-ios": "^1.0.0"
+  }
+}
