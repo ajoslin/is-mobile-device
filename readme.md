@@ -15,8 +15,7 @@ $ npm install --save is-mobile-device
 ```js
 var isMobileDevice = require('is-mobile-device')
 
-isMobileDevice('input')
-//=> output
+console.log(isMobileDevice) // true if user agent is android or ios. False in Node.
 ```
 
 ## API
